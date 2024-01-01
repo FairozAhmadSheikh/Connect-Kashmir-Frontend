@@ -24,3 +24,6 @@ Once the installation is complete, you can run the app using:
 ```npm start```
 
 Visit http://localhost:3000 in your browser to start using Connect Kashmir.
+# How It Looks
+![Screenshot 2024-01-01 005755](https://github.com/FairozAhmadSheikh/Connect-Kashmir-Frontend/assets/134375617/3aa07c57-b25b-4c6d-8536-69d653ec7c58)
+![Screenshot 2024-01-01 010030](https://github.com/FairozAhmadSheikh/Connect-Kashmir-Frontend/assets/134375617/e2b750f3-a14e-42d8-bd45-33091a0093d4)
