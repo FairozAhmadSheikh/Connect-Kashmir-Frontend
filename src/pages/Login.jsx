@@ -89,7 +89,7 @@ export default function Login() {
           <span>
             Don't have an account ? <Link to="/register">Create One.</Link>
           </span>
-          <span className="center"> Developed By <a href="https://www.facebook.com " target="_blacnk">Fairoz Ahmad Sheikh</a></span>
+          <span className="center"> Developed By <a href="https://github.com/FairozAhmadSheikh" target="_blacnk">Fairoz Ahmad Sheikh</a></span>
         </form>
         
         
